@@ -1,0 +1,5 @@
+E:\PrograI\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\PrograI\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\PrograI\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+E:\PrograI\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\PrograI\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
