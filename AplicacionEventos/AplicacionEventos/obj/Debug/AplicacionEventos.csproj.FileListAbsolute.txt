@@ -1,0 +1,9 @@
+E:\PrograI\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.exe.config
+E:\PrograI\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.exe
+E:\PrograI\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.pdb
+E:\PrograI\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.csprojResolveAssemblyReference.cache
+E:\PrograI\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.Form1.resources
+E:\PrograI\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.Properties.Resources.resources
+E:\PrograI\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.csproj.GenerateResource.Cache
+E:\PrograI\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.exe
+E:\PrograI\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.pdb
